@@ -27,3 +27,7 @@ https://jupyter.org/
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+
+
+## Future Versions
+I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis.
