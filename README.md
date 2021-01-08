@@ -19,7 +19,7 @@ pip install beautifulsoup4
 ```
 
 ### Installation
-1. You will need Juypter Notebook or any programming environment you prefer. I recommend Juypter Notebook. It is what I used to perform webscrapping.
+You will need Juypter Notebook or any programming environment you prefer. I recommend Juypter Notebook. It is what I used to perform webscrapping.
 ```sh
 https://jupyter.org/
 ```
