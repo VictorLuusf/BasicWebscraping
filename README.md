@@ -42,12 +42,15 @@ Quick Tutorial:
 Go to http://quotes.toscrape.com/ to practice scrapping quotes
 
 You will want to hover your mouse over the element you are trying to scrape. In this example you will want to hover your mouse over the quote then right click it and click on inspect.
+
 ![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Inspecting%20the%20HTML%20Code.png)
 
 In this instance the element is a 'span'. The class is a 'text'
+
 ![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Finding%20Your%20Quotes.png)
 
 Then in the code, you will want to use BeautifulSoup's soup.find_all. Below is some sample code of how I put this together.
+
 ![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Sample%20Code.PNG)
 
 ## Future Versions
