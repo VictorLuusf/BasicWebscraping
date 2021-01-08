@@ -38,6 +38,15 @@ https://www.anaconda.com/
 ## Usage
 You can use these Juypter Notebooks to teach yourself how to perform webscrapping and experiment on scrapping other data from websites on your own.
 
+Quick Tutorial:
+Go to http://quotes.toscrape.com/ to practice scrapping quotes
+
+You will want to hover your mouse over the element you are trying to scrape. In this example you will want to hover your mouse over the quote then right click it and click on inspect.
+![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Inspecting%20the%20HTML%20Code.png)
+
+In this instance the element is a 'span'. The class is a 'text'
+![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Finding%20Your%20Quotes.png)
+
 
 ## Future Versions
 I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
