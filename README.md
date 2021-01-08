@@ -2,7 +2,7 @@
   
   <!-- ABOUT THE PROJECT -->
 ## About The Project
-    The following project is that demonstrates a few different ways to perform Webscrapping.
+The following project is that demonstrates a few different ways to perform Webscrapping.
 
 ### Prerequisites
 
