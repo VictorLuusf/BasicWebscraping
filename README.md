@@ -47,6 +47,8 @@ You will want to hover your mouse over the element you are trying to scrape. In 
 In this instance the element is a 'span'. The class is a 'text'
 ![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Finding%20Your%20Quotes.png)
 
+Then in the code, you will want to use BeautifulSoup's soup.find_all. Below is some sample code of how I put this together.
+![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Sample%20Code.PNG)
 
 ## Future Versions
 I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
