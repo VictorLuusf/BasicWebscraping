@@ -30,4 +30,4 @@ https://jupyter.org/
 
 
 ## Future Versions
-I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis.
+I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
