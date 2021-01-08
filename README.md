@@ -23,10 +23,15 @@ You will need Juypter Notebook or any programming environment you prefer. I reco
 ```sh
 https://jupyter.org/
 ```
+You can always download anaconda. It is free platform and includes juypter notebook.
+
+```sh
+https://www.anaconda.com/
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+You can use these Juypter Notebooks to teach yourself how to perform webscrapping and experiment on scrapping other data from websites on your own.
 
 
 ## Future Versions
