@@ -55,3 +55,5 @@ Then in the code, you will want to use BeautifulSoup's soup.find_all. Below is s
 
 ## Future Versions
 I plan to work on a new version of this webscraper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
+
+3/10/2021 - I have added a repo that shows how to scrape from data tables using panda and how to export it as an excel spreadsheet: https://github.com/VictorLuusf/WebscraptoExcel
