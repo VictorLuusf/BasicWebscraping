@@ -1,8 +1,8 @@
-  <h3 align="center">Basic Webscrapping</h3> 
+  <h3 align="center">Basic Webscraping</h3> 
   
   <!-- ABOUT THE PROJECT -->
 ## About The Project
-The following project is that demonstrates a few different ways to perform Webscrapping.
+The following project is that demonstrates a few different ways to perform Webscraping.
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ https://www.anaconda.com/
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use these Juypter Notebooks to teach yourself how to perform webscrapping and experiment on scrapping other data from websites on your own.
+You can use these Juypter Notebooks to teach yourself how to perform webscraping and experiment on scraping other data from websites on your own.
 
 Quick Tutorial:
 Go to http://quotes.toscrape.com/ to practice scrapping quotes
@@ -54,4 +54,4 @@ Then in the code, you will want to use BeautifulSoup's soup.find_all. Below is s
 ![alt text](https://github.com/VictorLuusf/Webscrapping/blob/main/Images/Sample%20Code.PNG)
 
 ## Future Versions
-I plan to work on a new version of this webscrapper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
+I plan to work on a new version of this webscraper to include moving this data into a Database. I'm also planning on demonstrating turning that data into a data frame with pandas and performing some analysis. I might even turn it into a separate project. If I do, I will provide a link to it here.
